@@ -7,6 +7,10 @@ I'm a recently graduated software developer with hands-on experience as a full-s
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,java,cs,dotnet,cypress,solidity,docker,azure)](https://skillicons.dev)
 <!--
+
+<span>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nudeli&show_icons=true&theme=buefy&title_color=333d29&text_color=414833&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="#your-username" />
+</span>
 **nudeli/nudeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
