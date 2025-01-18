@@ -1,6 +1,6 @@
 ## Hey, I'm Itay! 
 
-### About me
+## About Me
 
 I'm a recently graduated software developer with hands-on experience as a full-stack developer, building robust backend services and dynamic frontend applications. I'm passionate about blockchain technology and love exploring its potential to create innovative and decentralized solutions. Feel free to check out my projects and connect with me to collaborate or chat! 🚀
 
