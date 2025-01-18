@@ -1,4 +1,4 @@
-## Hey, I'm Itay! 
+## Hey 👋 I'm Itay! 
 
 ## About Me
 
