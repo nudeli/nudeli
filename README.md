@@ -1,5 +1,8 @@
 ## Hey, I'm Itay! 
 
+### About me
+
+I'm a recently graduated software developer with hands-on experience as a full-stack developer, building robust backend services and dynamic frontend applications. I'm passionate about blockchain technology and love exploring its potential to create innovative and decentralized solutions. Feel free to check out my projects and connect with me to collaborate or chat! 🚀
 
 <!--
 **nudeli/nudeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
