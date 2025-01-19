@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a recently graduated software developer with hands-on experience as a full-stack developer, building robust backend services and dynamic frontend applications. I'm passionate about blockchain technology and love exploring its potential to create innovative and decentralized solutions. Feel free to check out my projects and connect with me to collaborate or chat! 🚀
+I'm a recently graduated software developer with experience as a full-stack developer, building robust backend services and dynamic frontend applications. I'm passionate about blockchain technology and love exploring its potential to create innovative and decentralized solutions. Feel free to check out my projects and connect with me to collaborate or chat!
 
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,java,cs,dotnet,cypress,solidity,docker,azure)](https://skillicons.dev)
